@@ -1,11 +1,11 @@
-//Library= tools buat eksekusi code dibawah
-#include <iostream> // Menyediakan input dan output
+//Library = tools buat eksekusi code dibawah
+#include <iostream> // Menyediakan standar input dan output stream
 #include <cmath>   // Library untuk perpangkatan dengan pow() 
 #include <iomanip> // Library untuk pembulattan dengan fixed setprecision()
 
 // Deklarasi = menamai dan memberi value tipe data dan variabel 
 
-using namespace std; // agar tidak menulis std:: di setiap code
+using namespace std; // Untuk tidak menulis std:: di setiap code
 
 const double g = 9.8; // Percepatan gravitasi (m/s^2) , const karena nilai gravitasinya tidak akan berubah
 
