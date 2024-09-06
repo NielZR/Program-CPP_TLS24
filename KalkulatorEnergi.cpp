@@ -17,7 +17,6 @@ double hitungEnergiPotensial(double massa, double tinggi) {
     return massa * g * tinggi;
 }
 
-
 // Fungsi untuk menghitung energi kinetik
 double hitungEnergiKinetik(double massa, double kecepatan) {
     return 0.5 * massa * pow(kecepatan, 2);
