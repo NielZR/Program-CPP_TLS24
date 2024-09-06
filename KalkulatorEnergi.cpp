@@ -27,9 +27,7 @@ double hitungEnergiMekanik(double energiPotensial, double energiKinetik) {
     return energiPotensial + energiKinetik;
 }
 
-// class = eksekusi program 
-
-int main() {
+int main() { //Program menu dan perhitungan Energi sehingga mengembalikan nilai
     int pilihan; // Integer buat memilih case mana yang akan dieksekusi dalam switch
     double massa, tinggi, kecepatan; // Deklerasi double value satuan yang akan dimasukkan lewat cin
     
