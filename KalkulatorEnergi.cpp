@@ -5,7 +5,7 @@
 
 // Deklarasi = menamai dan memberi value tipe data dan variabel 
 
-using namespace std; // Untuk tidak menulis std:: di setiap code
+using namespace std; // Untuk tidak mengetik std:: di setiap code
 
 const double g = 9.8; // Percepatan gravitasi (m/s^2) , const karena nilai gravitasinya tidak akan berubah
 
