@@ -1,4 +1,4 @@
-//Library = tools buat eksekusi code dibawah
+// Library = tools buat eksekusi code dibawah
 #include <iostream> // Menyediakan standar input dan output stream
 #include <cmath>   // Library untuk perpangkatan dengan pow() 
 #include <iomanip> // Library untuk pembulattan dengan fixed setprecision()
